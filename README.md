@@ -67,17 +67,17 @@ Grading
 
 ### Overview: Workload per Credits
 
-| Credits    | Duties                                                | 
-| ---------: | :-------                                              | 
-| 0          | attendance of seminar session                         | 
-| 1          | do the readings                                       | 
-|            | moderating discussion of a paper, with short handout  | 
-|            | review of paper                                       | 
-| 2          | attendance of advisee session                         | 
-|            | 2 page abstract for mainstream linguistics conference | 
-| 3          | discussing your work in advisee session               | 
-|            | final paper, ACL style                                | 
-|            | final presenation at workshop                         | 
+| Credits    | Duties                                                       |
+| ---------: | :-------                                                     |
+| 0          | attendance of seminar session                                |
+| 1          | do the readings                                              |
+|            | moderate discussion of a paper, with short handout           |
+|            | review of paper                                              |
+| 2          | attendance of advisee session                                |
+|            | two (2) page abstract for mainstream linguistics conference  | 
+| 3          | discussing your work in advisee session                      |
+|            | final paper, ACL style                                       |
+|            | final presenation at workshop                                |
 
 
 ### Readings and Discussion
@@ -123,7 +123,7 @@ You should follow the general template for peer reviews:
 
 Reviews are due 2 weeks after the discussion of the paper (that's slightly faster than the usual turn-around of 4 weeks for computational linguistics conferences; journals, in particular in theoretical linguistics, usually give you about 2 months).
 
-*Caution*: For manuscripts I will make the reviews available to the authors so they can revise the current draft.
+**Caution**: For manuscripts I will make the reviews available to the authors so they can revise the current draft.
 For this reason, you should put serious effort into your review.
 Also, you do not need to put your name on the review if you wish to stay anonymous.
 
@@ -162,7 +162,7 @@ In the words of the ACL:
 > 
 >  An interesting application nugget
 
-Short paper are limited to four (4) pages excluding references, long papers to eight (8).
+Short papers are limited to four (4) pages excluding references, long papers to eight (8).
 For formatting guidelines (and a Latex template that takes care of everything for you), see the [official ACL style files](http://acl2016.org/files/acl2016.zip).
 It is important that your papers conform to these requirements because computational conferences expect camera-ready submissions that require no further typesetting.
 
