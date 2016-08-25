@@ -11,7 +11,7 @@ Computational Phonology
 | Email         | [coursenumber]@thomasgraf.net |
 | Office hours  | tba                           |
 
-**Attention:** To get access to the [readings repository](../readings), you must email me your github username. 
+**Attention:** To get access to the [readings repository][readings], you must email me your github username. 
 
 
 
@@ -82,7 +82,7 @@ Grading
 
 ### Readings and Discussion
 
-Each week will have one or two readings assigned, which are discussed in the seminar session.
+Each week will have one or two readings assigned (check the [readings repository!][readings]), which are discussed in the seminar session.
 The expected load is about 25 to 50 pages per week, depending on the difficulty of the material.
 Each seminar session will have a student act as the moderator of the discussion.
 This requires
@@ -93,7 +93,7 @@ This requires
 - bringing unclear points to everybody's attention, and
 - critically evaluating the assigned reading.
 
-The handout will be shared in the [readings repository](../readings).
+The handout will be shared in the [readings repository][readings].
 Ideally, it should be written in markdown or LaTeX, but a doc file is also acceptable if absolutely necessary.
 Both the source file and a pdf must be emailed to me, I will then upload them to the readings repository.
 
@@ -219,3 +219,5 @@ http://www.stonybrook.edu/uaa/academicjudiciary/
 Stony Brook University expects students to respect the rights, privileges, and property of other people.
 Faculty are required to report to the Office of Judicial Affairs any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn.
 Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures.
+
+[readings]: ../../../readings
