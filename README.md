@@ -6,7 +6,7 @@ Computational Phonology
 | --:           | :--                           |
 | Course number | lin626                        |
 | Time          | MW 5:30--6:50 (to be changed) |
-| Location      | CompLab (SBS N-250)           |
+| Location      | SBS N-117                     |
 | Website       | lin626.thomasgraf.net         |
 |               |                               |
 | Instructor    | Thomas Graf                   |
