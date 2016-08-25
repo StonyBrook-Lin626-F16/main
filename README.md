@@ -35,8 +35,8 @@ Consequently, the emphasis will be on hands-on modelling and the use of computat
 Ideally, the work that students do in this seminar will result in presentations at computational conferences or workshops (e.g.  NECPhon, Sigmorphon, MOL) and possibly even journal publications (Computational Linguistics, Transactions of the ACL, JoLLI, Journal of Language Modelling).
 
 To reflect this goal, we will have two very different meetings per week.
-One is run like a normal seminar and focuses on the critical discussion of assigned readings.
-The other one functions more like an advisee meeting, with students reporting on their research progress, providing feedback on drafts of papers or abstracts, and so on.
+One (the *seminar session*) is run like a normal seminar and focuses on the critical discussion of assigned readings.
+The other one (*advisee session*) functions more like an advisee meeting, with students reporting on their research progress, providing feedback on drafts of papers or abstracts, and so on.
 
 
 ### Prerequisites
@@ -44,16 +44,6 @@ The other one functions more like an advisee meeting, with students reporting on
 Students are expected to have some previous experience with phonology at the undergraduate or graduate level.
 For students who lack sufficient expertise in phonology, additional background readings will be made available.
 No prior mathematical or computational experience is required.
-
-
-
-General Organization
---------------------
-
-The seminar consists of two distinct meetings per week.
-The longer of the two is the seminar session, which works like a normal seminar: we read, discuss, and evaluate papers from the primary literature.
-The advisee session, on the other hand, emulates a typical advisee meeting.
-It is designed to directly support you in your research for this seminar and help you with producing publishable research output.
 
 
 Teaching Goals
