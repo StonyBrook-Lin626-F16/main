@@ -49,6 +49,36 @@ For students who lack sufficient expertise in phonology, additional background r
 No prior mathematical or computational experience is required.
 
 
+Meeting Schedule
+----------------
+
+I consider classes a dynamic process where activities and workload vary throughout the semester.
+This isn't easily accommodated by a rigorous fixed schedule, which is why I would like to propose a number of changes to the current template of MW 5:30--6:50.
+
+At the beginning of the semester, it will be important to quickly bring you up to speed so that you have enough of a background to explore the primary literature on your own and start your quest for a research project.
+So for the first three weeks we will meet multiple times for a longer than usual period.
+After the first three weeks, the seminar time gets split between seminar sessions of 80 minutes (for everybody) and advisee sessions of 60 minutes (for students that are enrolled for at least 2 credits).
+The schedule *en detail*:
+
+| Day | Date    | Time        | Activity                                           |
+| --: | :--     | :--         | :--                                                |
+| M   | Aug 29  | 5:30 - 6:50 | organizational meeting                             |
+| W   | Aug 31  | 5:45 - 8:00 | extended 2h seminar session with 10min break       |
+| F   | Sep 2   | 3:00 - 5:15 | extended 2h seminar session with 10min break       |
+| M   | Sep 5   |             | Labor day                                          |
+| W   | Sep 7   | 5:45 - 8:00 | extended 2h seminar session with 10min break       |
+| M   | Sep 12  |             | no class                                           |
+| W   | Sep 14  | 5:45 - 8:00 | extended 2h seminar session with 10min break       |
+| F   | Sep 16  | 3:00 - 5:15 | final extended 2h seminar session with 10min break |
+| M   | week 4+ | 1:15 - 2:15 | 60min advisee session                              |
+|     |         | 5:30 - 6:50 | regular 80min seminar session                      |
+
+Given a 15 week semester, this adds up to 80 + 5*125 + 12*(60+80) = 2385, which is exactly the official amount of 15*3*53 = 2385.
+
+I also intend to organize a one-day workshop during finals week where students present the results of the research they did in this seminar.
+The workshop will be announced on LINGO-L, and there might even be one or two invited speakers.
+
+
 Teaching Goals
 --------------
 
@@ -77,9 +107,9 @@ Grading
 |            | moderate discussion of a paper, with short handout           |
 |            | review of paper                                              |
 | 2          | attendance of advisee session                                |
+|            | discussing your work in advisee session                      |
 |            | two (2) page abstract for mainstream linguistics conference  | 
-| 3          | discussing your work in advisee session                      |
-|            | final paper, ACL style                                       |
+| 3          | final paper, ACL style                                       |
 |            | final presenation at workshop                                |
 
 
@@ -120,6 +150,7 @@ You should follow the general template for peer reviews:
     - accept with major revisions
     - accept with minor revisions
     - accept as is
+
     You should also give a justification for your recommendation (novelty of work, soundness and relevance of results, and so on).
 1.  1 page discussion of major shortcomings (in presentation, evidence or argumentation) as well as suggestions for improvement
 1.  optionally a final section with page by page discussion of minor points
