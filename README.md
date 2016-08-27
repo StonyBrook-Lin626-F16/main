@@ -73,7 +73,7 @@ The schedule *en detail*:
 | M   | week 4+ | 1:15 - 2:15 | 60min advisee session                              |
 |     |         | 5:30 - 6:50 | regular 80min seminar session                      |
 
-Given a 15 week semester, this adds up to 80 + 5*125 + 12*(60+80) = 2385, which is exactly the official amount of 15*3*53 = 2385.
+Given a 15 week semester, this adds up to `80+5*125+12*(60+80) = 2385`, which is exactly the official amount of `15*3*53 = 2385`.
 
 I also intend to organize a one-day workshop during finals week where students present the results of the research they did in this seminar.
 The workshop will be announced on LINGO-L, and there might even be one or two invited speakers.
