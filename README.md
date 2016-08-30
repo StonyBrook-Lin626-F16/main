@@ -6,7 +6,7 @@ Computational Phonology
 | --:           | :--                           |
 | Course number | lin626                        |
 | Time          | see Meeting Schedule below    |
-| Location      | SBS N-117                     |
+| Location      | SBS N-250 (CompLab)           |
 | Website       | lin626.thomasgraf.net         |
 |               |                               |
 | Instructor    | Thomas Graf                   |
@@ -61,7 +61,7 @@ After the first three weeks, the seminar time gets split between seminar session
 The schedule *en detail*:
 
 | Day | Date    | Time        | Activity                                           |
-| --: | :--     | :--         | :--                                                |
+| :-: | :--     | :-:         | :--                                                |
 | M   | Aug 29  | 5:30 - 6:50 | organizational meeting                             |
 | W   | Aug 31  | 5:45 - 8:00 | extended 2h seminar session with 10min break       |
 | F   | Sep 2   | 3:00 - 5:15 | extended 2h seminar session with 10min break       |
