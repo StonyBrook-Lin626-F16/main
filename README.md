@@ -5,7 +5,7 @@ Computational Phonology
 | Course        | Info                          |
 | --:           | :--                           |
 | Course number | lin626                        |
-| Time          | MW 5:30--6:50 (to be changed) |
+| Time          | see Meeting Schedule below    |
 | Location      | SBS N-117                     |
 | Website       | lin626.thomasgraf.net         |
 |               |                               |
