@@ -11,7 +11,7 @@ Computational Phonology
 |               |                               |
 | Instructor    | Thomas Graf                   |
 | Email         | [coursenumber]@thomasgraf.net |
-| Office hours  | tba                           |
+| Office hours  | M 2:30-4:30, F 2:20-3:20      |
 | Office        | SBS N-249                     |
 
 **Attention:** To get access to the [readings repository][readings], you must email me your github username. 
