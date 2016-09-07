@@ -60,20 +60,21 @@ So for the first three weeks we will meet multiple times for a longer than usual
 After the first three weeks, the seminar time gets split between seminar sessions of 80 minutes (for everybody) and advisee sessions of 60 minutes (for students that are enrolled for at least 2 credits).
 The schedule *en detail*:
 
-| Day | Date    | Time        | Activity                                           |
-| :-: | :--     | :-:         | :--                                                |
-| M   | Aug 29  | 5:30 - 6:50 | organizational meeting                             |
-| W   | Aug 31  | 5:45 - 8:00 | extended 2h seminar session with 10min break       |
-| F   | Sep 2   | 3:00 - 5:15 | extended 2h seminar session with 10min break       |
-| M   | Sep 5   |             | Labor day                                          |
-| W   | Sep 7   | 5:45 - 8:00 | extended 2h seminar session with 10min break       |
-| M   | Sep 12  |             | no class                                           |
-| W   | Sep 14  | 5:45 - 8:00 | extended 2h seminar session with 10min break       |
-| F   | Sep 16  | 3:00 - 5:15 | final extended 2h seminar session with 10min break |
-| M   | week 4+ | 1:15 - 2:15 | 60min advisee session                              |
-|     |         | 5:30 - 6:50 | regular 80min seminar session                      |
+| Day | Date    | Time        | Activity                                            |
+| :-: | :--     | :-:         | :--                                                 |
+| M   | Aug 29  | 5:30 - 6:50 | organizational meeting                              |
+| W   | Aug 31  | 5:45 - 8:00 | extended 2h seminar session with 10min break        |
+| F   | Sep 2   | 3:00 - 5:15 | extended 2h seminar session with 10min break        |
+| M   | Sep 5   |             | Labor day                                           |
+| W   | Sep 7   | 5:45 - 8:00 | extended 2h seminar session with 10min break        |
+| M   | Sep 12  |             | no class                                            |
+| W   | Sep 14  | 5:45 - 8:00 | extended 2h seminar session with 10min break        |
+| F   | Sep 16  | 3:05 - 5:15 | final extended 2h seminar session with 10min break  |
+| M   | week 4+ | 1:15 - 2:15 | 60min advisee session                               |
+|     |         | 5:30 - 6:50 | regular 80min seminar session                       |
+| M   | Nov 21  | no class    | early Thanksgiving break                            |
 
-Given a 15 week semester, this adds up to `80+5*125+12*(60+80) = 2385`, which is exactly the official amount of `15*3*53 = 2385`.
+Given a 15 week semester with one week of vacation (Labor day + Thanksgiving), this adds up to `80+4*125+120+11*(60+80) = 2240`, which is exactly the official amount of `14*2*80 = 2240`.
 
 I also intend to organize a one-day workshop during finals week where students present the results of the research they did in this seminar.
 The workshop will be announced on LINGO-L, and there might even be one or two invited speakers.
